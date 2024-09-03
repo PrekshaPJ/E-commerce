@@ -1,64 +1,22 @@
 {
   "seller": [
     {
-      "id": 3,
+      "id": "3",
       "name": "shree",
       "password": "swami",
       "email": "samarth@gmail.com"
-    },
+    },    
     {
-      "id": 4,
-      "name": "Preksha",
-      "password": "New",
-      "email": "p@gmail.com"
-    },
-    {
-      "id": 5,
+      "id": "5",
       "name": "sss",
       "password": "sss",
       "email": "sss@gmail.com"
-    },
+    },   
     {
-      "id": "8d84",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "6999",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "7b2d",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "31e3",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "fe2b",
-      "name": "",
-      "password": "",
-      "email": ""
-    },
-    {
-      "id": "43ac",
-      "name": "kiaan",
-      "password": "kiiiiii",
-      "email": "1@text.com"
-    },
-    {
-      "id": "dd68",
-      "name": "nisha",
-      "password": "nisha",
-      "email": "nishu@text.com"
+      "id": "d277",
+      "name": "PrekshaPJ",
+      "password": "preksha",
+      "email": "p@gmail.com"
     }
   ]
 }
