@@ -20,7 +20,9 @@ this.route.events.subscribe((val:any)=>{
       this.menuType = 'seller'
       if(localStorage.getItem('seller'))
       {
-        
+       let sellerStore = localStorage.getItem('seller');
+       let sellerData = sellerStore && JSON.parse(sellerStore)[0];
+       this.sellerName= sellerData.name;
       }
     }else{
       console.warn('outside seller');

@@ -10,6 +10,7 @@ import { FooterComponent } from './footer/footer.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { SellerHomeComponent } from './seller-home/seller-home.component';
+import { SellerAddProductComponent } from './seller-add-product/seller-add-product.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SellerHomeComponent } from './seller-home/seller-home.component';
     HomeComponent,
     SellerAuthComponent,
     FooterComponent,
-    SellerHomeComponent
+    SellerHomeComponent,
+    SellerAddProductComponent
   ],
   imports: [
     BrowserModule,
