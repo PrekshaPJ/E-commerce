@@ -1,0 +1,25 @@
+.table{
+    color: blueviolet;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table td, table th{
+ border: 1px solid blueviolet;
+padding: 10px;
+min-width: 160px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.UpdateLink{
+    margin-left: 10px;
+}
+
+h1{
+    color: blueviolet;
+    
+}

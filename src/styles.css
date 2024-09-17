@@ -8,7 +8,7 @@ body{
 }
 
 .common-form{
-    text-align: center;
+    
     display: flex;
     margin: auto;
     flex-direction: column;
@@ -31,4 +31,23 @@ cursor: pointer;
 
 .error-p{
     color: red;
+    text-align: center;
+}
+
+.message-p{
+    color: green;
+    text-align: center;
+}
+
+.icon-color{
+    color: blueviolet;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+button{
+    color:blueviolet;
 }
